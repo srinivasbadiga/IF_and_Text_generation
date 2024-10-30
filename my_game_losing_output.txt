@@ -1,0 +1,66 @@
+Losing output:
+
+Map generated and saved as 'mission_to_mars_map.png'.
+Welcome to the Mission ~~ Mars!
+*******************
+
+You are at Landing Site. (The initial landing area with the spacecraft.)
+There are NO items here
+Exits: south
+Enter your command: go south
+You moved south to Supply Room. Oxygen level is now 85%.
+*******************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Emergency Oxygen Tank, Torchlight
+Exits: north, west, east, south
+Enter your command: go east
+You moved east to Equipment Storage. Oxygen level is now 70%.
+It's too dark to see! You need to use the Torchlight to proceed.
+*******************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+Items here: Keys to Base Station
+Exits: west
+Enter your command: go west
+You moved west to Supply Room. Oxygen level is now 55%.
+*******************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Emergency Oxygen Tank, Torchlight
+Exits: north, west, east, south
+Enter your command: go east
+You moved east to Equipment Storage. Oxygen level is now 40%.
+It's too dark to see! You need to use the Torchlight to proceed.
+*******************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+Items here: Keys to Base Station
+Exits: west
+Enter your command: go west
+You moved west to Supply Room. Oxygen level is now 25%.
+*******************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Emergency Oxygen Tank, Torchlight
+Exits: north, west, east, south
+Enter your command: take torchlight
+You have collected the Torchlight.
+*******************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Emergency Oxygen Tank
+Exits: north, west, east, south
+Enter your command: go east
+You moved east to Equipment Storage. Oxygen level is now 10%.
+It's too dark to see! You need to use the Torchlight to proceed.
+*******************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+Items here: Keys to Base Station
+Exits: west
+Enter your command: go west
+Your oxygen is running low! USE the Emergency Oxygen Tank to refill your oxygen cylinder.
+Your oxygen is critically low, and you don't have an Emergency Oxygen Tank!
+You have suffocated! Game over.
+You have died. Game over.

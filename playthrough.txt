@@ -1,0 +1,27 @@
+Winning commands:
+
+go south
+take Emergency Oxygen Tank
+take Torchlight
+go east
+use torchlight
+take Keys to Base Station
+go west
+go west
+take M-416 Gun
+go east
+go south
+use M-416 Gun
+take vault passcode
+go south
+take artifact
+
+Losing commands:
+go south
+go east
+go west
+go east
+go west
+take torchlight
+go east
+go west

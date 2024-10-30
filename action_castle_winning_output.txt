@@ -1,0 +1,237 @@
+Action castle winning output:
+
+You are standing in a small cottage.
+
+Exits:
+Out to Garden Path
+
+You see:
+ * a fishing pole
+
+
+The player got the pole.
+You are standing on a lush garden path. There is a cottage here.
+Exits:
+In to Cottage
+South to Fishing Pond
+North to Winding Path
+
+You see:
+ * a rosebush
+        pick rose
+
+
+You are at the edge of a small fishing pond.
+Exits:
+North to Garden Path
+
+You see:
+ * a small fishing pond
+        catch fish with pole
+        catch fish
+
+
+The player dips their hook into the pond and catches a fish
+You are standing on a lush garden path. There is a cottage here.
+Exits:
+In to Cottage
+South to Fishing Pond
+North to Winding Path
+
+You see:
+ * a rosebush
+        pick rose
+
+
+The player picked the lone rose from the rosebush
+The player smells the rose. It smells warmly inviting.
+The player is happy.
+You are walking along a winding path. There is a tall tree here.
+Exits:
+South to Garden Path
+Up to Top of the Tall Tree
+East to Drawbridge
+
+
+
+
+You are the top of the tall tree.
+Exits:
+Down to Winding Path
+Jump to The Afterlife
+
+You see:
+ * a stout, dead branch
+
+
+The player got the branch.
+You are walking along a winding path. There is a tall tree here.
+Exits:
+South to Garden Path
+Up to Top of the Tall Tree
+East to Drawbridge
+
+
+
+
+You are standing on one side of a drawbridge leading to ACTION CASTLE.
+Exits:
+West to Winding Path
+East to Courtyard
+
+
+Characters:
+ * A mean troll
+
+The player gave the fish to Troll
+Troll eats the fish. It tastes disgusting! It's raw! And definitely not sashimi-
+grade!
+You are in the courtyard of ACTION CASTLE.
+Exits:
+West to Drawbridge
+Up to Tower Stairs
+Down to Dungeon Stairs
+East to Great Feasting Hall
+
+
+Characters:
+ * A castle guard
+
+The player attacked guard with the branch.
+The fragile weapon broke into pieces.
+Guard was knocked unconscious.
+Guard dropped the key in the Courtyard.
+Guard dropped the sword in the Courtyard.
+The player got the key.
+You stand inside the Great Feasting Hall.
+Exits:
+West to Courtyard
+East to Throne Room
+
+You see:
+ * a strange candle
+        light candle
+        read runes
+
+
+The player got the candle.
+You are in the courtyard of ACTION CASTLE.
+Exits:
+West to Drawbridge
+Up to Tower Stairs
+Down to Dungeon Stairs
+East to Great Feasting Hall
+
+You see:
+ * a short sword
+Characters:
+ * A castle guard
+
+You are climbing the stairs down to the dungeon.
+Exits:
+Up to Courtyard
+Down to Dungeon
+
+
+
+
+The player lights the lamp. It glows.
+You are in the dungeon. There is a spooky ghost here.
+Exits:
+Up to Dungeon Stairs
+
+
+Characters:
+ * A ghost with bony, claw-like fingers and who is wearing a crown.
+
+The player lights the candle. It glows.
+The ghost has been banished and has dropped its crown.
+The player got the crown.
+You are climbing the stairs down to the dungeon.
+Exits:
+Up to Courtyard
+Down to Dungeon
+
+
+
+
+You are in the courtyard of ACTION CASTLE.
+Exits:
+West to Drawbridge
+Up to Tower Stairs
+Down to Dungeon Stairs
+East to Great Feasting Hall
+
+You see:
+ * a short sword
+Characters:
+ * A castle guard
+
+You are climbing the stairs to the tower. There is a locked door here.
+Exits:
+Down to Courtyard
+Up to Tower
+
+You see:
+ * a door
+        unlock door
+
+
+You unlocked the door, which is now open.
+You are inside a tower.
+Exits:
+Down to Tower Stairs
+
+
+Characters:
+ *
+ * A princess who is beautiful and lonely. She awaits her non-gender-
+stereotypical soulmate.
+
+The player gave the rose to Princess
+Princess smells the rose. It smells velvety and smooth.
+Princess is happy.
+The player proposes to princess. They said 'Yes!'
+Now The player and princess are both royals!
+The player is now wearing the crown!
+You are climbing the stairs to the tower. There is a locked door here.
+Exits:
+Down to Courtyard
+Up to Tower
+
+You see:
+ * a door
+        unlock door
+
+
+You are in the courtyard of ACTION CASTLE.
+Exits:
+West to Drawbridge
+Up to Tower Stairs
+Down to Dungeon Stairs
+East to Great Feasting Hall
+
+You see:
+ * a short sword
+Characters:
+ * A castle guard
+
+You stand inside the Great Feasting Hall.
+Exits:
+West to Courtyard
+East to Throne Room
+
+
+
+
+This is the throne room of ACTION CASTLE.
+Exits:
+West to Great Feasting Hall
+
+You see:
+ * An ornate golden throne.
+        sit on throne
+
+
+The player sits on the throne and is now the ruler!
+The Player is now reigns in ACTION CASTLE! The Player has won the game!

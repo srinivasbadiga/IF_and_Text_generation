@@ -1,0 +1,133 @@
+Winning Output:
+
+Map generated and saved as 'mission_to_mars_map.png'.
+Welcome to the Mission ~~ Mars!
+*******************************************************
+
+You are at Landing Site. (The initial landing area with the spacecraft.)
+There are NO items here
+Exits: south
+Enter your command: go south
+You moved south to Supply Room. Oxygen level is now 85%.
+*******************************************************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Emergency Oxygen Tank, Torchlight
+Exits: north, west, east, south
+Enter your command: take emergency oxygen tank
+You have collected the Emergency Oxygen Tank.
+*******************************************************
+
+You are at Supply Room. (A storage area with essential supplies.)
+Items here: Torchlight
+Exits: north, west, east, south
+Enter your command: take torchlight
+You have collected the Torchlight.
+*******************************************************
+
+You are at Supply Room. (A storage area with essential supplies.)
+There are NO items here
+Exits: north, west, east, south
+Enter your command: go east
+You moved east to Equipment Storage. Oxygen level is now 70%.
+It's too dark to see! You need to use the Torchlight to proceed.
+*******************************************************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+Items here: Keys to Base Station
+Exits: west
+Enter your command: use torchlight
+Switching on the Torchlight. The room is now illuminated.
+*******************************************************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+Items here: Keys to Base Station
+Exits: west
+Enter your command: take keys to base station
+You have collected the Keys to Base Station.
+*******************************************************
+
+You are at Equipment Storage. A room with various equipment and tools.)
+There are NO items here
+Exits: west
+Enter your command: go west
+You moved west to Supply Room. Oxygen level is now 55%.
+*******************************************************
+
+You are at Supply Room. (A storage area with essential supplies.)
+There are NO items here
+Exits: north, west, east, south
+Enter your command: go west
+You moved west to Weapon Store. Oxygen level is now 40%.
+*******************************************************
+
+You are at Weapon Store. (A store with Advanced weapons which are used in defeating Aliens.)
+Items here: M-416 Gun, M-40 Gun, AKM Gun
+Exits: east
+Enter your command: take m-416 gun
+You have collected the M-416 Gun.
+*******************************************************
+
+You are at Weapon Store. (A store with Advanced weapons which are used in defeating Aliens.)
+Items here: M-40 Gun, AKM Gun
+Exits: east
+Enter your command: go east
+You moved east to Supply Room. Oxygen level is now 25%.
+*******************************************************
+
+You are at Supply Room. (A storage area with essential supplies.)
+There are NO items here
+Exits: north, west, east, south
+Enter your command: go south
+You moved south to Base Station. Oxygen level is now 10%.
+You use the Keys to Base Station to unlock the path.
+*******************************************************
+
+You are at Base Station. A secured base with restricted access. Alert: ALIEN inside. Defeat alien to get vault passcode.
+There are NO items here
+Exits: north, south
+Enter your command: use m-416 gun
+Firing the m-416 gun ==> ==> ==> Alien.
+The Alien has been defeated.
+The Alien dropped: Vault Passcode.
+*******************************************************
+
+You are at Base Station. A secured base with restricted access. Alert: ALIEN inside. Defeat alien to get vault passcode.
+Items here: Vault Passcode
+Exits: north, south
+Enter your command: take vault passcode
+You have collected the Vault Passcode.
+*******************************************************
+
+You are at Base Station. A secured base with restricted access. Alert: ALIEN inside. Defeat alien to get vault passcode.
+There are NO items here
+Exits: north, south
+Enter your command: go south
+Your oxygen is running low! USE the Emergency Oxygen Tank to refill your oxygen cylinder.
+You have Emergency oxygen cylinder in your inventory.(Refilling now!)
+Oxygen Refill Successful!
+You moved south to Martian Vault. Oxygen level is now 85%.
+You use the Vault Passcode to unlock the path.
+*******************************************************
+
+You are at Martian Vault. A vault where Mars artifacts are present.
+Items here: Artifact
+Exits: north
+Enter your command: take artifact
+You have collected the Artifact.
+Congratulations! You've secured the Martian Artifact and completed the mission!
+
+Mission Accomplished!
+
+YOU WON!! Heading back to Home Earth!
+
+
+
+
+
+
+
+
+
+
+
